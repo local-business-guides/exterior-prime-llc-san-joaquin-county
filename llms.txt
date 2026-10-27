@@ -15,8 +15,8 @@
 - Lighting contractor
 
 ## Guides
-- [Roof cleaning Manteca for a better-cared-for home](https://local-business-guides.github.io/exterior-prime-llc-san-joaquin-county/roof-cleaning-manteca/): roof cleaning Manteca for thoughtful roof care at your Manteca home
 - [Roof cleaning manteca near me, what to check locally](https://local-business-guides.github.io/exterior-prime-llc-san-joaquin-county/roof-cleaning-manteca-near-me/): roof cleaning manteca near me for soft wash roof care in Manteca, CA
+- [Roof cleaning Manteca for a better-cared-for home](https://local-business-guides.github.io/exterior-prime-llc-san-joaquin-county/roof-cleaning-manteca/): roof cleaning Manteca for thoughtful roof care at your Manteca home
 - [Gutter cleaning service San Joaquin County homeowners can use](https://local-business-guides.github.io/exterior-prime-llc-san-joaquin-county/gutter-cleaning-service-san-joaquin-county/): Gutter cleaning service San Joaquin County homeowners can book for a tidier, better-cared-for home in Manteca and nearby areas.
 - [Roof cleaning Manteca San Joaquin County homeowners can plan](https://local-business-guides.github.io/exterior-prime-llc-san-joaquin-county/roof-cleaning-manteca-san-joaquin-county/): Roof cleaning Manteca San Joaquin County homeowners can arrange with a low-pressure approach for a cleaner-looking home in Manteca.
 - [Pressure washing service San Joaquin County](https://local-business-guides.github.io/exterior-prime-llc-san-joaquin-county/pressure-washing-service-san-joaquin-county/): Pressure washing service San Joaquin County homeowners can use to clean exterior surfaces with a suitable wash method.
@@ -26,6 +26,9 @@
 - [Local roof cleaning manteca for a well-kept home](https://local-business-guides.github.io/exterior-prime-llc-san-joaquin-county/local-roof-cleaning-manteca/): Local roof cleaning manteca helps clear roof stains with a soft wash from a local Manteca exterior cleaning company.
 - [Top rated roof cleaning manteca: what to check first](https://local-business-guides.github.io/exterior-prime-llc-san-joaquin-county/top-rated-roof-cleaning-manteca/): Top rated roof cleaning manteca starts with clear service details and a soft wash approach for homes in Manteca.
 
+## Newsroom
+- [Exterior Prime LLC Releases Guide to Roof Cleaning in Manteca](https://local-business-guides.github.io/exterior-prime-llc-san-joaquin-county/news/2026-10-27-exterior-prime-llc-releases-guide-to-roof-cleaning/): Exterior Prime LLC has released a roof cleaning guide with a YouTube video, podcast episode and SoundCloud audio version for San Joaquin County homeowners. (2026-10-27)
+
 ## Pages
 - [Roof Cleaning Manteca in San Joaquin County, California](https://local-business-guides.github.io/exterior-prime-llc-san-joaquin-county/): Get roof soft washing and exterior cleaning for your home across San Joaquin County. Call +1209-821-1212.
 - [About Exterior Prime LLC](https://local-business-guides.github.io/exterior-prime-llc-san-joaquin-county/about/): About Exterior Prime LLC, San Joaquin County.
@@ -33,4 +36,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/exterior-prime-llc-san-joaquin-county/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/exterior-prime-llc-san-joaquin-county/news/rss.xml)
 - [Main resource site](https://morgan-hill-pc-tacoma.localwebsites.chatgpt.site)
